@@ -1,0 +1,29 @@
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# 构建产物
+dist/
+build/
+out/
+
+# 日志与临时文件
+*.log
+*.tmp
